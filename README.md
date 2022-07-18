@@ -1,7 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<div align="center" >
-    <img src="https://avatars.githubusercontent.com/u/31427635" alt="Avatar" style="border-radius: 50%; height: 100px; border: 4px solid rgba(255, 255, 255, 0.85);">
-</div>
 <h1 align="center">Tarang74</h1>
 <div align="center">
     <a href="https://linkedin.com/in/tarangjanawalkar/">
@@ -10,9 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Tarang74&style=for-the-badge&color=red" alt="Views"/>
 </div>
 <div align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
 </div>
 
 ---
@@ -29,90 +23,89 @@ Feel free to check out my repositories!
 
 ## :book: Education
 
-- _Bachelor of Applied & Computational Mathematics (2021 - 2025)_
-**Current GPA: 7.0 / 7.0 (High Distinction)**.
+- *Bachelor of Applied & Computational Mathematics (2021 - 2025)*
+  
+    **Current GPA: 7.0 / 7.0 (High Distinction)**.
 
-- _Bachelor of Computer & Software Systems Engineering (Honours) (2021 - 2025)_
-**Current GPA: 7.0 / 7.0 (High Distinction)**.
+- *Bachelor of Computer & Software Systems Engineering (Honours) (2021 - 2025)*
 
-- _Australian Tertiary Admission Rank (2020)_
-**ATAR: 96.75 / 99.95**
+    **Current GPA: 7.0 / 7.0 (High Distinction)**.
+
+- *Queensland Certificate of Education (2020)*
+
+    **ATAR: 96.75 / 99.95**
 
 ---
 
 ## :man_technologist: Experience
 
-I have been programming for about **<span id="years-experience"></span> years** and have worked with the following tools and technologies.
-
-<script type="text/javascript">
-    document.getElementById("years-experience").innerHTML = Math.floor(new Date().getFullYear() - 2015);
-</script>
+I have been programming for about **7 years** and have worked with the following tools and technologies.
 
 ### :computer: Software & Services I frequently use
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-chrome-plain colored"></i>
-    <i class="devicon-git-plain colored"></i>
-    <i class="devicon-gitlab-plain colored"></i>
-    <i class="devicon-github-plain dark"></i>
-    <i class="devicon-google-plain colored"></i>
-    <i class="devicon-npm-original-wordmark colored"></i>
-    <i class="devicon-illustrator-plain colored"></i>
-    <i class="devicon-slack-plain colored"></i>
-    <i class="devicon-vscode-plain colored"></i>
-    <i class="devicon-visualstudio-plain colored"></i>
-    <i class="devicon-xd-plain colored"></i>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="Chrome" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" alt="GitLab" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="Experience Design" height="48rem"/>
 </div>
 
 #### Operating Systems I use
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-windows8-plain colored"></i>
-    <i class="devicon-ubuntu-plain colored"></i>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows 11" height="48rem"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="48rem"/>
 </div>
 
 ### :hammer_and_wrench: Languages & Tools I work with
 
 #### For Web Development
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-typescript-plain colored"></i>
-    <i class="devicon-react-plain colored"></i>
-    <i class="devicon-nextjs-plain dark"></i>
-    <i class="devicon-tailwindcss-plain colored"></i>
-    <i class="devicon-nodejs-plain colored"></i>
-    <i class="devicon-d3js-plain colored"></i>
-    <i class="devicon-vuejs-plain colored"></i>
-    <i class="devicon-html5-plain colored"></i>
-    <i class="devicon-javascript-plain colored"></i>
-    <i class="devicon-css3-plain colored"></i>
-    <i class="devicon-sass-plain colored"></i>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="d3JS" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="VueJS" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="48rem" />
 </div>
 
 #### For Data Science & Software Development
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-python-plain colored"></i>
-    <i class="devicon-csharp-plain colored"></i>
-    <i class="devicon-c-plain colored"></i>
-    <i class="devicon-cplusplus-plain colored"></i>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="48rem" />
 </div>
 
 #### For Mathematics
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-latex-plain dark"></i>
-    <i class="devicon-matlab-plain colored"></i>
-    <i class="devicon-julia-plain colored"></i>
-    <i class="devicon-r-plain colored"></i>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="48rem" />&nbsp;
 </div>
 
 #### Other Languages I am familiar with
 
-<div align="center" style="font-size: 3rem">
-    <i class="devicon-mysql-plain colored"></i>
-    <i class="devicon-php-plain colored"></i>
-    <i class="devicon-sqlite-plain colored"></i>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem" />
 </div>
 
 ---
@@ -125,7 +118,7 @@ I have been programming for about **<span id="years-experience"></span> years** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarang74&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarang74&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarang74&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
