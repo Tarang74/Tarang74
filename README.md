@@ -15,9 +15,9 @@ Welcome to my GitHub account! My name is **Tarang** and I am a student at the [Q
 
 I am currently in my second year of university studying Mathematics and Engineering (Honours), majoring in Applied Mathematics and Software Engineering.
 
-I use my GitHub account to store my projects and to share my knowledge with others. In addition to this, I have curated a list of all the notes I have written throughout my studies at QUT, which can be found [here](https://github.com/stars/Tarang74/lists/university-notes).
+I use my GitHub account to store my projects and to share my knowledge with others. In addition to this, I have curated a list of all the notes I have written throughout my studies at QUT, which can be found on my [GitBook](https://Tarang74.gitbook.com/qut-notes/v/home).
 
-Feel free to check out my repositories!
+Feel free to check out my other repositories!
 
 ---
 
