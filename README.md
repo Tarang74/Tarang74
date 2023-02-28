@@ -76,20 +76,19 @@ I have been programming for about **7 years** and have worked with the following
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="d3JS" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="VueJS" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="48rem" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" height="48rem" />
 </div>
 
-#### For Data Science & Software Development
+#### For Machine Learning & Software Development
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="48rem" />
 </div>
 
 #### For Mathematics
@@ -98,15 +97,7 @@ I have been programming for about **7 years** and have worked with the following
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="Julia" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="48rem" />&nbsp;
-</div>
-
-#### Other Languages I am familiar with
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MySQL" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="48rem" />
 </div>
 
 ---
