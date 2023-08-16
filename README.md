@@ -1,6 +1,6 @@
 <h1 align="center">Tarang74</h1>
 <div align="center">
-    <a href="https://linkedin.com/in/tarangjanawalkar/">
+    <a href="https://linkedin.com/in/tarang-janawalkar/">
         <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Tarang74&style=for-the-badge&color=red" alt="Views"/>
