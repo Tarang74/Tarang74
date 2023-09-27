@@ -117,7 +117,7 @@ I have been programming for about **7 years** and have worked with the following
 ---
 
 <div align="center">
-
+    
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)&nbsp;[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
 
 </div>
