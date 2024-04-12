@@ -13,7 +13,7 @@
 
 Welcome to my GitHub account! My name is **Tarang** and I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/).
 
-I am currently in my third year of university studying Mathematics and Engineering (Honours), majoring in Applied Mathematics and Software Engineering.
+I am currently in my fourth year of university studying Mathematics and Engineering (Honours), majoring in Applied Mathematics and Software Engineering.
 
 I use my GitHub account to host various small-scale programs I have developed, and to showcase projects I have worked on to share my knowledge with others. In addition to this, I have curated a list of all the notes I have written throughout my studies at QUT, which can be found on my [GitBook](https://tarang74.gitbook.io/qut-notes/readme).
 
