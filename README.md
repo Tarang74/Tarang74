@@ -112,6 +112,7 @@ I have been programming for about **7 years** and have worked with the following
 
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=31427635)
 ---
 
 <div align="center">
