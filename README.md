@@ -21,13 +21,13 @@ Feel free to check out my other repositories!
 
 ## :book: Education
 
-- *Bachelor of Applied & Computational Mathematics (2021 - 2025)*
+- *Bachelor of Applied & Computational Mathematics (2021 - 2024)*
   
-    **Current GPA: 7.0 / 7.0 (High Distinction)**.
+    **Current Grade: High Distinction (96%)**.
 
 - *Bachelor of Computer & Software Systems Engineering (Honours) (2021 - 2025)*
 
-    **Current GPA: 7.0 / 7.0 (High Distinction)**.
+    **Current Grade: First Class Honours (92%)**.
 
 - *Queensland Certificate of Education (2020)*
 
