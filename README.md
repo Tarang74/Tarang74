@@ -9,11 +9,20 @@
 
 ---
 
-Welcome to my GitHub account! My name is **Tarang** and I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/) and Software Engineer working at [Audima Labs](https://audima.com.au/) and [DÆDÆLUS](https://daedaelus.com).
+Welcome to my GitHub account, my name is **Tarang**!
+I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/)
+and Software Engineer at [Audima Labs](https://audima.com.au/) and [DÆDÆLUS](https://daedaelus.com).
 
-I am also in the fifth year of my undergraduate studies, completing a Bachelor's in Mathematics and Engineering (Honours), majoring in Applied & Computational Mathematics and Computer & Software Systems Engineering.
+I am in the fifth year of my undergraduate studies, completing a
+Bachelor's in Mathematics and Engineering (Honours), majoring in
+Applied & Computational Mathematics and Computer & Software Systems
+Engineering.
 
-I use my GitHub account to host various small-scale programs I have developed, and to showcase projects I have worked on to share my knowledge with others. In addition to this, I have curated a list of all the notes I have written throughout my studies at QUT, which can be found on my [GitBook](https://tarang74.gitbook.io/qut-notes?utm_source=github&utm_medium=social&utm_campaign=profile_link).
+I use my GitHub account to host various small-scale programs I have
+developed, and to showcase projects I have worked on to share my
+knowledge with others. In addition to this, I have curated a list of
+all the notes I have written throughout my studies at QUT, which can be
+found on my [GitBook](https://tarang74.gitbook.io/qut-notes?utm_source=github&utm_medium=social&utm_campaign=profile_link).
 
 Feel free to check out my other repositories and links!
 
@@ -21,17 +30,17 @@ Feel free to check out my other repositories and links!
 
 ## :book: Education
 
-- *Bachelor of Applied & Computational Mathematics (2021 - 2024)*
-  
-    **Current Grade: High Distinction (96%)**.
+- _Bachelor of Applied & Computational Mathematics (2021 – 2024)_
 
-- *Bachelor of Computer & Software Systems Engineering (Honours) (2021 - 2025)*
+  **Current Grade: High Distinction (96%)**.
 
-    **Current Grade: First Class Honours (91%)**.
+- _Bachelor of Computer & Software Systems Engineering (Honours) (2021 – 2025)_
 
-- *Queensland Certificate of Education (2020)*
+  **Current Grade: First Class Honours (91%)**.
 
-    **ATAR: 96.75 / 99.95**
+- _Queensland Certificate of Education (2020)_
+
+  **ATAR: 96.75 / 99.95**
 
 ---
 
@@ -62,8 +71,8 @@ Tools, languages, and platforms I have used over the past **9 years**.
 
 ### Systems Development
 
-<div align="center"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" height="48rem" />&nbsp; 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" height="48rem" />&nbsp;
@@ -118,7 +127,7 @@ Tools, languages, and platforms I have used over the past **9 years**.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="Tauri" height="48rem" />&nbsp;
 </div>
 
-### Package & Depenedency Management
+### Package & Dependency Management
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda", height="48rem" />&nbsp;
@@ -156,12 +165,12 @@ Tools, languages, and platforms I have used over the past **9 years**.
 ### Design
 
 <div align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="48rem" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" alt="Inkscape" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" alt="Illustrator" height="48rem" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" height="48rem" />&nbsp;
 </div>
-    
+
 ---
 
 ## :fire: GitHub Statistics
@@ -170,17 +179,16 @@ Tools, languages, and platforms I have used over the past **9 years**.
 
 ![Tarang74's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarang74&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarang74&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarang74&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarang74&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=31427635)
----
+## ![](https://hit.yhype.me/github/profile?user_id=31427635)
 
 <div align="center">
-    
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)&nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
 
