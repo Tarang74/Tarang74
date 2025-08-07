@@ -181,11 +181,11 @@ Tools, languages, and platforms I have used over the past **9 years**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarang74&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarang74&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tarang74&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
-## ![](https://hit.yhype.me/github/profile?user_id=31427635)
+---
 
 <div align="center">
 
@@ -193,3 +193,5 @@ Tools, languages, and platforms I have used over the past **9 years**.
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
 
 </div>
+
+![Hype Counter](https://hit.yhype.me/github/profile?account_id=31427635)
