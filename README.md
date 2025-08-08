@@ -28,6 +28,29 @@ Feel free to check out my other repositories and links!
 
 ---
 
+## Personal GPG Key
+
+Send me encrypted messages with my signing key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaJWz2xYJKwYBBAHaRw8BAQdAeuwStqlE8ydz7T/LrtDXxkBTHB3Vdrgls0GN
++HbKT5K0UVRhcmFuZyBKYW5hd2Fsa2FyIChQZXJzb25hbCBQR1Aga2V5KSA8MzE0
+Mjc2MzUrVGFyYW5nNzRAdXNlcnMubm9yZXBseS5naXRodWIuY29tPoiTBBMWCgA7
+FiEEmFzQS+W7UYkgxYUDCsWJ5zhPBTYFAmiVs9sCGwMFCwkIBwICIgIGFQoJCAsC
+BBYCAwECHgcCF4AACgkQCsWJ5zhPBTbrewD+NCzvvoIA+UOqdZo2RkYG0s/XSzly
+TyEATPQEYPI1+hEBAL90HzfVxQcUMFOP+l5hl3dsh5QjnYLWZ6oha4hd3toJuDgE
+aJWz2xIKKwYBBAGXVQEFAQEHQM2Z7jeC6piU7beuWNPlBizJk+ssPNtQWm/Nfycp
+Mq05AwEIB4h4BBgWCgAgFiEEmFzQS+W7UYkgxYUDCsWJ5zhPBTYFAmiVs9sCGwwA
+CgkQCsWJ5zhPBTapCwD9GXEzAuauo+Ua00RYyN8/urkQgZKlt2YR1sIQEYTizH4B
+AN/cUx3nSoHP2mS6dS8wCxkOrOGFjhM4hWGifHeGwdUI
+=/a8c
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+---
+
 ## :book: Education
 
 - _Bachelor of Applied & Computational Mathematics (2021 – 2024)_
