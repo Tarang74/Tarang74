@@ -28,6 +28,27 @@ Feel free to check out my other repositories and links!
 
 ---
 
+## Personal GPG Key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaQz0nxYJKwYBBAHaRw8BAQdAx/J6eQzeyZqOudwlRadUMt1WyXIp6M6fgvck
+nPgrvLO0PlRhcmFuZyBKYW5hd2Fsa2FyIChQZXJzb25hbCBHUEcgS2V5KSA8bWVA
+dGFyYW5namFuYXdhbGthci5jb20+iJMEExYKADsWIQTrn76DhXswfJoObB0X6XQK
+/aLA5AUCaQz0nwIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAX6XQK
+/aLA5KndAPoDesZY/fPIo1+IMQ+2ygqZ/lreVIvSI3nxsUyQBWx8kAEA0eYfwDTP
+3+i9N1nq/3HWUwUotFbjVbn333LHIQuYEQ24OARpDPSfEgorBgEEAZdVAQUBAQdA
+ZZlsewLSxHxVVxX18Rxl7XF0gtdeVcEfl8nHCe2eABgDAQgHiHgEGBYKACAWIQTr
+n76DhXswfJoObB0X6XQK/aLA5AUCaQz0nwIbDAAKCRAX6XQK/aLA5Jl3AP0dZoKT
+0a8LBDX1ZMXepJIafoTczHEh+n1gWfun67BWbQD/YQ+235MNDivr6RoD3z5epaww
+v9r8Lleld49szvjV3AI=
+=Fnak
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+---
+
 ## :book: Education
 
 - _Bachelor of Applied & Computational Mathematics (2021 – 2024)_
