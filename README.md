@@ -53,11 +53,11 @@ v9r8Lleld49szvjV3AI=
 
 - _Bachelor of Applied & Computational Mathematics (2021 – 2024)_
 
-  **Current Grade: High Distinction (96%)**.
+  **Grade Point Average: High Distinction (96%)**.
 
 - _Bachelor of Computer & Software Systems Engineering (Honours) (2021 – 2025)_
 
-  **Current Grade: First Class Honours (91%)**.
+  **Honours Division: First Class Honours (91%)**.
 
 - _Queensland Certificate of Education (2020)_
 
