@@ -10,21 +10,21 @@
 ---
 
 Welcome to my GitHub account, my name is **Tarang**!
-I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/)
+I am a Sessional Academic at the [Queensland University of Technology (QUT)](https://qut.edu.au/)
 and Software Engineer at [Audima Labs](https://audima.com.au/).
 
-I am in the fifth year of my undergraduate studies, completing a
-Bachelor's in Mathematics and Engineering (Honours), majoring in
-Applied & Computational Mathematics and Computer & Software Systems
-Engineering.
+I graduated from the Faculty of Engineering at QUT in 2025 with a 
+University Medal, in a Bachelor of Engineering (Honours) and a 
+Bachelor of Mathematics, majoring in Computer & Software Systems 
+Engineering and Applied & Computational Mathematics.
 
-I use my GitHub account to host various small-scale programs I have
-developed, and to showcase projects I have worked on to share my
-knowledge with others. In addition to this, I have curated a list of
-all the notes I have written throughout my studies at QUT, which can be
-found on my [GitBook](https://tarang74.gitbook.io/qut-notes?utm_source=github&utm_medium=social&utm_campaign=profile_link).
+I use my GitHub to host programs I've developed and showcase projects
+I've worked on, with the goal of sharing my knowledge with others.
+In addition to this, I have curated a list of all the notes I have 
+written throughout my studies at QUT, which can be found on my 
+[GitBook](https://tarang74.gitbook.io/qut-notes?utm_source=github&utm_medium=social&utm_campaign=profile_link).
 
-Feel free to check out my other repositories and links!
+Feel free to check out my repositories and social links!
 
 ---
 
