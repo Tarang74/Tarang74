@@ -11,7 +11,7 @@
 
 Welcome to my GitHub account, my name is **Tarang**!
 I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/)
-and Software Engineer at [Audima Labs](https://audima.com.au/) and [DÆDÆLUS](https://daedaelus.com).
+and Software Engineer at [Audima Labs](https://audima.com.au/).
 
 I am in the fifth year of my undergraduate studies, completing a
 Bachelor's in Mathematics and Engineering (Honours), majoring in
